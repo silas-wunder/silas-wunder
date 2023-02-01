@@ -1,6 +1,6 @@
-## Howdy!
+# Howdy!
 
-# I am Silas Wunder (he/him)!
+## I am Silas Wunder (he/him)!
 
 - I am currently a student at Colorado State University pursuing a Bachelor's Degree in Data Science with a concentration in Computer Science and a minor in Statistics.
 - I am especially interested in Machine Learning and its applications to the world of social advocacy, specifically in the legal domain.
