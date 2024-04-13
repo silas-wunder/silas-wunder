@@ -1,8 +1,11 @@
-# Howdy!
+# Howdy! 👋
 
-## I am Silas Wunder (he/him)!
+## I'm Silas Wunder (he/him)!
 
-- I am a recent graduate, with a bachelor's degree in Data Science, concentration in Computer Science, and minors in Statistics and Machine Learning.
-- I am especially interested in Machine Learning and its applications to the world of social justice and advocacy, specifically in the legal domain.
-- My GitHub houses a couple school projects and personal projects, with the best representation of my current knowledge being [my capstone project](https://github.com/silas-wunder/LegiScan).
-- If you need to contact me for any reason, my primary email is spwunder12@gmail.com, I will get back to you as soon as possible.
+- Recent graduate with a bachelor's degree in Data Science, concentration in Computer Science, and minors in Statistics and Machine Learning.
+- Passionate about leveraging data and technology to drive positive social impact, particularly interested in the intersection of Machine Learning and social justice advocacy.
+- Currently exploring opportunities to apply my skills and knowledge in the data analysis and legal domain to contribute to meaningful projects.
+- My GitHub showcases a mix of school projects and personal projects, with a focus on data analysis, machine learning, and software development.
+- Check out my capstone project [LegiScan](https://github.com/silas-wunder/LegiScan) for a comprehensive example of my work.
+
+Feel free to reach out for collaboration or to discuss exciting opportunities! Let's make a difference together! 😊
