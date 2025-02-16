@@ -6,6 +6,4 @@
 - I'm passionate about leveraging data and technology to drive positive social impact, particularly interested in the intersection of data science and social justice advocacy.
 - I currently work with DoorDash as a Data Analyst and don't have much time to devote to personal projects unfortunately.
 - My GitHub showcases a mix of school projects and personal projects, with a focus on data analysis, machine learning, and software development.
-- Check out my capstone project [LegiScan](https://github.com/silas-wunder/LegiScan) for a comprehensive example of my work.
-
-Feel free to reach out for collaboration or to discuss exciting opportunities! Let's make a difference together! 😊
+- Check out my capstone project [LegiScan](https://github.com/silas-wunder/LegiScan) for the most comprehensive example of my work.
